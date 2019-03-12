@@ -1,7 +1,7 @@
 ---
-name: "[Chiua] TODO"
+name: TODO Nahuatl
 about: TODO for a Milestone.
-title: "[Chiua]"
+title: "[TODO]"
 labels: ''
 assignees: ''
 
